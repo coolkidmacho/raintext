@@ -29,3 +29,6 @@ def rain(text):
     final = "".join([str(elem) for elem in text])
 
     return final
+
+
+#raintext is created for easy use! by https://github.com/coolkidmacho
