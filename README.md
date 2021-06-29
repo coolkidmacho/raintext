@@ -27,3 +27,4 @@ print(rain("How are you?", color_space=True))
 <img src="http://i.prntscr.com/yuRqVdMfRp6YIODqXtpcwQ.png"
      alt="Screenshot 2"/>
 
+# Made by Coolkidmacho#0001 on discord
